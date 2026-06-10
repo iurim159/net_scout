@@ -92,8 +92,7 @@ L'APK sarà in: `build/app/outputs/flutter-apk/app-release.apk`
 
 ## 📱 Screenshot
 
-(Da aggiungere quando disponibile)
-
+!screenshot.png
 ## 🔄 Flusso scansione
 
 ```
